@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prime</name>
+   <tag></tag>
+   <elementGuidId>3b6cd628-334f-42cf-8edf-239cc7f22022</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-link-amazonprime']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-link-amazonprime > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8544187f-870d-4e7e-9a60-8c2cd7905c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prime</value>
+      <webElementGuid>8850d290-0c16-4340-bf3e-2f39a2624bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-link-amazonprime&quot;)/span[1]</value>
+      <webElementGuid>cce74f3f-5981-48cd-a104-f0ca5654880d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav-link-amazonprime']/span</value>
+      <webElementGuid>986fa0cd-b0da-4f3c-85f4-ae2312c6ade4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[10]/span</value>
+      <webElementGuid>7c89e78b-9eb5-4c72-84d8-21fc1cbb6091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Prime' or . = 'Prime')]</value>
+      <webElementGuid>6530b020-d7c8-4a97-9638-c36a967920b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
