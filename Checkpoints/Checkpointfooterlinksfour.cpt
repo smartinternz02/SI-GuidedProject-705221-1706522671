@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpointfooterlinksfour</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\Data File_Footer Links.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-01-29T02:41:09.542+05:30</taken-date>
+   <column-names>
+      <column-name>Countries</column-name>
+      <column-name></column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Australia",
+      "checked": true
+    },
+    {
+      "value": "",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "India",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Japan",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Brazil",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

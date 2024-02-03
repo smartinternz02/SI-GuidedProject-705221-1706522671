@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointHeaderButtonthree</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\Data File_Header.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-01-29T01:26:50.574+05:30</taken-date>
+   <column-names>
+      <column-name>Button</column-name>
+      <column-name></column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Sell",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Today\u0027s Deals",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Mobiles",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Electronics",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Customer Service",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Gift Ideas",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "New Realease",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Home  Kitchen",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
