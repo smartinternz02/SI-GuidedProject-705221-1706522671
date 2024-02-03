@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Page_Amazon.com. Spend less. Smile more/a_About Amazon",
+      "brokenLocator": "//div[@id\u003d\u0027navFooter\u0027]/div/div/div/ul/li[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027About Amazon\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Page_Amazon.com. Spend less. Smile more/a_Amazon Devices",
+      "brokenLocator": "//div[@id\u003d\u0027navFooter\u0027]/div/div/div/ul/li[5]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//li[5]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/New Folder/Page_Amazon.com. Spend less. Smile more/a_Amazon Devices_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Singin_DDt_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in",
+      "brokenLocator": "//div[@id\u003d\u0027nav-signin-tooltip\u0027]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[(text() \u003d \u0027Sign in\u0027 or . \u003d \u0027Sign in\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_pages_Order_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Orders",
+      "brokenLocator": "durgesh",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[@id\u003d\u0027nav-orders\u0027]/span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_pages_Order_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Orders_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_Pages_SignIn_OR/Page_Amazon.com. Spend less. Smile more/span_Sign in",
+      "brokenLocator": "//div[@id\u003d\u0027nav-signin-tooltip\u0027]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[(text() \u003d \u0027Sign in\u0027 or . \u003d \u0027Sign in\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_pages_Order_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402",
+      "brokenLocator": "//input[@id\u003d\u0027continue\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_pages_Order_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402_position.png"
+    }
+  ]
+}
